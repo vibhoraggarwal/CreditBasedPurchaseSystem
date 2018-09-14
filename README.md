@@ -1,2 +1,2 @@
 # CreditBasedPurchaseSystem
-Purchase system based on how someone responds to his important activities
+Purchase items based on how you respond to the important daily activities/hobbies
